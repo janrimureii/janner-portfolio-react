@@ -7,7 +7,7 @@ function ProjectPage () {
     return (
         <>
         <div className="project-page-main-container">
-            
+            <h3>Projects</h3>
         </div>
         </>
     )
