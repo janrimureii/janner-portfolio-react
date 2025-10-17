@@ -1,0 +1,131 @@
+.aboutMeContainer {
+    display: flex;
+    flex-direction: row; 
+    gap: 20px;
+}
+
+.aboutMeContainerInner{
+    width: 32rem;
+    padding: 1.5rem;
+}
+.aboutMeContainerInner h3 {
+    color: #748873;
+    font-size: 35px;
+}
+.aboutMeContainerInner p {
+    font-size: 25px;
+    text-align: justify;
+    color: #575353;
+}
+
+
+.ExperiencesContainer{
+    width: 32rem;
+    background-color: #777C6D;
+    border-radius: 15px;
+    color: #FFFFFF;
+    padding: 1.5rem;
+}
+.ExperiencesContainer h3{
+    color: #FFFFFF;;
+    font-size: 35px;
+    text-align: center;
+}
+.ExperiencesContainer p {
+    font-size: 25px;
+    text-align: justify;
+    padding: 20px;
+    font-weight: 300;
+}
+
+
+.CreativeSkillsContainer{
+    width: 32rem;
+    background-color: #777C6D;
+    border-radius: 15px;
+    color: #FFFFFF;
+    padding: 1.5rem;
+}
+.DivTitle{
+    color: #FFFFFF;;
+    font-size: 35px;
+    text-align: center;
+}
+.digitalSkillText{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+.CreativeSkillsContainer{
+    display: flex;
+    flex-direction: column;
+    gap: -10px;
+}
+
+.canvaName{
+    font-size: 20px;
+    font-weight: 300;
+}
+.canvaStat{
+    text-align: right;
+    background-color: #FFFFFF;
+    color:#748873;
+    width: 90%;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.photoshopName{
+    font-size: 20px;
+    font-weight: 300; 
+}
+.photoshopLevel{
+    text-align: right;
+    background-color: #FFFFFF;
+    color:#748873;
+    width: 30%;
+    border-radius: 20px; 
+    font-weight: bold;
+}
+.blenderName{
+    font-size: 20px;
+    font-weight: 300; 
+}
+.blenderStat{
+    text-align: right;
+    background-color: #FFFFFF;
+    color:#748873;
+    width: 70%;
+    border-radius: 20px; 
+    font-weight: bold;
+}
+
+.traditionalArtLabel{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 400;
+}
+.waterColorLabel{
+    font-size: 20px;
+    font-weight: 300; 
+}
+.waterColorStatContainer{
+    text-align: right;
+    background-color: #FFFFFF;
+    color:#748873;
+    width: 100%;
+    border-radius: 20px; 
+    font-weight: bold;
+}
+.gouacheLabel{
+    font-size: 20px;
+    font-weight: 300; 
+}
+.gouachaStatContainer{
+    text-align: right;
+    background-color: #FFFFFF;
+    color:#748873;
+    width: 87%;
+    border-radius: 20px; 
+    font-weight: bold;
+}

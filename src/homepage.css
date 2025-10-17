@@ -1,0 +1,44 @@
+.myPortaitPicture{
+    width: 450px;
+    height: auto;
+    border-radius: 50%;
+}
+.homePageMainContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    position: relative;
+    top: 10rem;
+    left: 10%;
+}
+.wordsContainer{
+    width: 45rem;
+    position: relative;
+    top: -2rem;
+}
+.topGreetingLabel{
+    font-size: 40px;
+    font-weight: 300;
+    color: #535353;
+    margin-bottom: 0.1rem;
+}
+.nameLabel{
+    font-size: 85px;
+    color: #748873;
+    margin-bottom: 30px;
+}
+.briefIntroLabel{
+    font-size: 35px;
+    color: #535353;
+    font-weight: 400;
+    margin-top: -10px;
+}
+.contactButton{
+    background-color: #748873;
+    color: #EEEEEE;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
