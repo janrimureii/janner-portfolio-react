@@ -7,8 +7,10 @@ function ProjectPage () {
     return (
         <>
         <div className="project-page-main-container">
-            <h3 className="top-area-word">Projects</h3>
-            <p className="project-top-description">This are some of the latest projects I did</p>
+            <div className="top-description-container">
+                <h3 className="top-area-word">Projects</h3>
+                <p className="project-top-description">This are some of the latest projects I did</p>
+            </div>
         </div>
         </>
     )
