@@ -11,6 +11,9 @@ function ProjectPage () {
                 <h3 className="top-area-word">Projects</h3>
                 <p className="project-top-description">This are some of the latest projects I did</p>
             </div>
+            <div className="project-container-main">
+                
+            </div>
         </div>
         </>
     )
