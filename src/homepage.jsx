@@ -6,7 +6,7 @@ import './homepage.css'
 function HomePage() {
     return (
         <>
-            <div className="homePageMainContainer">
+            <div id="homepage" className="homePageMainContainer">
                 <div className="wordsContainer">
                     <h4 className="topGreetingLabel">Hi There! I'm</h4>
                     <h2 className="nameLabel">Ivan Janner</h2>

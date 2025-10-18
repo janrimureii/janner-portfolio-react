@@ -1,0 +1,99 @@
+.outer-container{
+    position: relative;
+    top: -20rem
+}
+.project-container-main{
+    background-color: #777C6D;
+    position: relative;
+    margin: 0;
+    overflow-x: auto;    
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    padding: 45px;
+    text-align: center;
+    border-radius: 20px;
+    left: 0;
+    right: 0;
+}
+.top-description-container {
+    text-align: center;
+}
+.top-area-word{
+    font-size: 50px;
+    color: #748873;
+    margin-bottom: 0;
+}
+.project-top-description{
+    font-size: 30px;
+    font-weight: 400;
+    color: #6E6E6E;
+    margin-top: 2px;
+    position: relative;
+}
+
+.project-1-container{
+    background-color: #CBCBCB;
+    padding: 25px;
+    border-radius: 10px;
+}
+.project-1-container p {
+    color: #6E6E6E;
+    font-size: 20px;
+}
+.project-2-container{
+    background-color: #CBCBCB;
+    padding: 25px;
+    border-radius: 10px;
+}
+.project-2-container p {
+    color: #6E6E6E;
+    font-size: 20px;
+}
+.project-3-container{
+    background-color: #CBCBCB;
+    padding: 25px;
+    border-radius: 10px;
+}
+.project-3-container p {
+    color: #6E6E6E;
+    font-size: 20px;
+}
+.project-4-container{
+    background-color: #CBCBCB;
+    padding: 25px;
+    border-radius: 10px;
+}
+.project-4-container p {
+    color: #6E6E6E;
+    font-size: 20px;
+}
+.project-5-container{
+    background-color: #CBCBCB;
+    padding: 25px;
+    border-radius: 10px;
+}
+.project-5-container p {
+    color: #6E6E6E;
+    font-size: 20px;
+}
+.project-6-container{
+    background-color: #CBCBCB;
+    padding: 25px;
+    border-radius: 10px;
+}
+.project-6-container p {
+    color: #6E6E6E;
+    font-size: 20px;
+}
+.project-7-container{
+    background-color: #CBCBCB;
+    padding: 25px;
+    border-radius: 10px;
+}
+.project-7-container p {
+    color: #6E6E6E;
+    font-size: 20px;
+}
+

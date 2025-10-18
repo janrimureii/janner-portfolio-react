@@ -6,6 +6,7 @@ import TopBar from './topBar.jsx'
 import AboutMe from './about-me-page.jsx'
 import DevSkills from './dev-skills.jsx'
 import ProjectPage from './projects.jsx'
+import ContactPage from './contact-page.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -15,6 +16,7 @@ createRoot(document.getElementById('root')).render(
       <AboutMe/>
       <DevSkills/>
       <ProjectPage/>
+      <ContactPage/>
     </div>
   </StrictMode>,
 )

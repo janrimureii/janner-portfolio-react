@@ -1,0 +1,36 @@
+.contacts-main-container{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    top: -30rem;
+}
+.picture-container {
+    position: relative;
+    padding: 40px;
+    left: 4rem;
+}
+.picture-container img{
+    border-radius: 20px;
+}
+
+.link-container{
+    position: relative;
+    top: 7rem;
+    width: 40rem;
+    margin-left: 80px;
+}
+.link-container h3 {
+    font-size: 60px;
+    font-weight: 500;
+    color: #748873;
+}
+.link-container p {
+    font-size: 20px;
+    color: #6E6E6E;
+}
+.icons-container{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}

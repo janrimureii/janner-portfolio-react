@@ -2,6 +2,7 @@
     width: 450px;
     height: auto;
     border-radius: 50%;
+    margin: 0%;
 }
 .homePageMainContainer {
     display: flex;

@@ -1,9 +1,9 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useRef, useState } from 'react'
+
 import './topBar.css'
 
 function TopBar() {
+
     return(
         <>
         <div className="topBarContainer">
@@ -11,7 +11,7 @@ function TopBar() {
                 <h3 className="topBarMonogram">/Janrimurei</h3>
             </div>
             <div className="functionsContainer">
-                <h3>Home</h3>
+               <a href="#homepage"> <h3>Home</h3> </a>
                 <h3>About</h3>
                 <h3>Projects</h3>
                 <h3>Contact</h3>

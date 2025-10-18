@@ -1,10 +1,13 @@
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   background-color: #D9D9D9;
+  padding: 20px;
 }
 
 .portfolio-Container{
   display: flex;
   flex-direction: column;
   gap: 20rem;
+  overflow-x: hidden;
+
 }
